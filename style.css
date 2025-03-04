@@ -1,5 +1,7 @@
 body{
     margin: 0;
+    color: blue;
+    
 }
 #box{
   width: 250px;
@@ -9,5 +11,15 @@ body{
   text-align: center;
   background-color: rgb(116, 255, 114);
 
-   transform: translateX(-50px);
+   transform: translateX(100px);
+}
+h1{
+    color: red;
+}
+p{
+    color: yellow;
+}
+
+a{
+    color: green;
 }
